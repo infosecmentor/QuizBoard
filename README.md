@@ -1,7 +1,7 @@
 # QUIZ BOARD
  ## By Phares Muhambi
 ## Screenshot
- ![image](./assets/delanii.png)
+ ![image](./assets/images/Screenshot%20from%202022-05-15%2019-37-42.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
