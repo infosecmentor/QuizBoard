@@ -40,7 +40,7 @@ As a user of the application,you will be able to :
  ****
  [
 ### Live Link
-- Click this link to view the live application https://albert-byrone.github.io/delani/
+- Click this link to view the live application https://infosecmentor.github.io/QuizBoard/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
@@ -50,7 +50,7 @@ As a user of the application,you will be able to :
 * No known bugs.
 ## Licence
 MIT License
-Copyright (c) [2019] [Albert Byrone]
+Copyright (c) [2022] [Phares MUHAMBI]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
