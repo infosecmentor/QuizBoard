@@ -40,7 +40,7 @@ As a user of the application,you will be able to :
  ****
  [
 ### Live Link
-- Click this link to view the live application https://albert-byrone.github.io/delani/
+- Click this link to view the live application;https://albert-byrone.github.io/delani/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
