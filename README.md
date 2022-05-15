@@ -14,8 +14,9 @@
  - [Authors Info](#Authors-Info)
  ## Description
  <p>This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studio</p>
-[Go Back to the top](#delani-studio)
-## Features
+<p>Go Back to the top](#delani-studio)</p>
+
+ ## Features
 As a user of the application,you will be able to :
 1. See a description of what the services offered by the studio
 1. Can make inquiry through a form.
