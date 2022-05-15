@@ -13,41 +13,41 @@
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
- <p>This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studio</p>
-<p>Go Back to the top](#delani-studio)</p>
+ <p>This project is a simple Quiz Board built using HTML, CSS, and JavaScript that asks multiple choice questions and allows the user to select answers before receiving a total at the end of the exam.</p>
+
 
  ## Features
 As a user of the application,you will be able to :
-1. See a description of what the services offered by the studio
-1. Can make inquiry through a form.
-[Go Back to the top](#delani-studio)
+1. Answer Questions
+2. See your marks
+[
 ## Behaviour Driven Development|
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
-|  Enter your name  |   Albert Byrone |     |
-| Enter your Email Address  | albertbyrone1677@gmail.com |   |
+|  Enter your name  |   Phares Muhambi|     |
+| Enter your Email Address  | muhambiphares@gmail.com |   |
 | Enter your message or comment   |  I would like to inquire about something     |     |
-| Press Submit|     |Pop up "Albert Byrone , we have received your message. Thank you for reaching out to us.|
-[Go Back to the top](#delani-studio)
+| Press Submit|     |Pop up "Phares Muhambi, we have received your message. Thank you for reaching out to us.|
+
  ###  Requirements
  * Access to  a computer or any other garget
  * Access to internet
  ### Installation Process
  ****
-* Clone to thir repo : git clone https://github.com/Albert-Byrone/delani.git
+* Clone to thir repo : git clone https://github.com/infosecmentor/QuizBoard
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
- [Go Back to the top](#delani-studio)
+ [
 ### Live Link
 - Click this link to view the live application https://albert-byrone.github.io/delani/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
-* JQUERY - which was used for DOM(Document Object Manipulation) scripts.
-[Go Back to the top](#delani-studio)
+* Javascript - which was used for creating functions.
+
 ## Known Bugs
-* Mailchimp API does not function correctly as expected.
+* No known bugs.
 ## Licence
 MIT License
 Copyright (c) [2019] [Albert Byrone]
@@ -68,6 +68,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](#delani-studio)
 ## Authors Info
-Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
-Linked - [Albert Byrone](https://www.linkedin.com/in/albert-byrone-664811144/)
+Email:muhambiphares@gmail.com
 [Go Back to the top](#delani-studio)
