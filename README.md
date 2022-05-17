@@ -50,7 +50,7 @@ As a user of the application,you will be able to :
 * No known bugs.
 ## Licence
 MIT License
-Copyright (c) [2019] [Albert Byrone]
+Copyright (c) [2022] [PHARES MUHAMBI]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
